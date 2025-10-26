@@ -1,4 +1,9 @@
 # dget (Daiso GET)
+
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Domado/dcp/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/version-0.1.0-informational)
+
 👍🏻 Powerful, flexible, and reliable command-line tool for downloading files over HTTP, made by Daiso
 
 `dget` is a minimal, educational HTTP GET client and foundational C library (`libdaisohttp`) written from scratch using standard C and POSIX socket APIs. It serves as the foundational networking component for the **Daiso Engine** project.
